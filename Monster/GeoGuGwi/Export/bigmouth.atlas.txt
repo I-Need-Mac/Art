@@ -1,5 +1,5 @@
 bigmouth.png
-size:261,524
+size:524,524
 filter:Linear,Linear
 pma:true
 L_foot
